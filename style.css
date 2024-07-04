@@ -39,7 +39,7 @@ footer{
     cursor: pointer;
     font-size: 17px;
     font-weight: bolder;
-    box-shadow: 2px 2px 2px black;
+    box-shadow:  5px 5px 5px rgb(85, 85, 85);
     transition:
     background-color 0.5s,
     rotate 2s;
